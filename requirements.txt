@@ -1,5 +1,5 @@
 flask==1.0.2
-jinja2==2.10
+jinja2==2.11.3
 defusedxml==0.5.0
 jsbeautifier==1.7.5
 psycopg2-binary==2.7.5
